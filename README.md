@@ -72,39 +72,27 @@ The IBM Cognos dashboard contains two main analytical sections.
 
 ### Sales Overview
 
-![Sales Overview](screenshots/sales_overview.png)
-
-Markdown image link: `screenshots/sales_overview.png`
+![Sales Overview](screenshots/sales-overview.png)
 
 ### Key Performance Indicators
 
 ![Sales Overview KPIs](screenshots/sales_overview_kpis.png)
 
-Markdown image link: `screenshots/sales_overview_kpis.png`
-
 ### Revenue by Month
 
 ![Revenue by Month](screenshots/revenue_by_month.png)
-
-Markdown image link: `screenshots/revenue_by_month.png`
 
 ### Top 10 Customers by Revenue
 
 ![Top 10 Customers by Revenue](screenshots/top_10_customers_by_revenue.png)
 
-Markdown image link: `screenshots/top_10_customers_by_revenue.png`
-
 ### Revenue by Country, Excluding UK
 
 ![Revenue by Country, Excluding UK](screenshots/revenue_by_country_excluding_uk.png)
 
-Markdown image link: `screenshots/revenue_by_country_excluding_uk.png`
-
 ### Top 10 Products by Revenue
 
 ![Top 10 Products by Revenue](screenshots/top_10_products_by_revenue.png)
-
-Markdown image link: `screenshots/top_10_products_by_revenue.png`
 
 ## Key Findings
 
